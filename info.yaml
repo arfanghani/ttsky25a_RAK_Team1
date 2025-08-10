@@ -3,8 +3,8 @@ project:
   wokwi_id:     438909288805415937       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "test"      # Project title
   author:       "test1"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  discord:      "I dont have one"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "It is not empty so I will not expect an error"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -16,8 +16,8 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
+  ui[0]: "test1"
+  ui[1]: "test2"
   ui[2]: ""
   ui[3]: ""
   ui[4]: ""
@@ -36,7 +36,7 @@ pinout:
   uo[7]: ""
 
   # Bidirectional pins
-  uio[0]: ""
+  uio[0]: "out1"
   uio[1]: ""
   uio[2]: ""
   uio[3]: ""
