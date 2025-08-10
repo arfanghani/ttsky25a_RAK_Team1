@@ -8,12 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-this design works xxxx
+Design 1
 
 ## How to test
 
-trst xxxxx
+Design 1
 
 ## External hardware
 
-none needed
+Design 1
